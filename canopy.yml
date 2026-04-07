@@ -1,7 +1,9 @@
-title: Site title
+title: CPL's NPS
 collection:
-
+  - https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll18/p7.json
+  - https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll18/p8.json
   - https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll18/p9.json
+  - https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll18/p11.json
 manifest:
 metadata:
   - Original Collection
