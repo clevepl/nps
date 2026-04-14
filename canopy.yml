@@ -10,6 +10,9 @@ metadata:
   - Date
   - Creator
   - Location
+  - Location Note
+  - Subject 
+
 featured:
   - https://cdm16014.contentdm.oclc.org/iiif/2/p4014coll18:10401/manifest.json
 search:
