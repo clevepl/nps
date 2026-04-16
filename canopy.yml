@@ -136,7 +136,6 @@ manifest:
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8945/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8946/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8947/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8948/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8949/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8950/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8951/manifest.json
@@ -149,9 +148,7 @@ manifest:
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8958/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8959/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8960/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8961/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8962/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8963/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8964/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8965/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8966/manifest.json
@@ -159,7 +156,6 @@ manifest:
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8968/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8969/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8970/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8971/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8972/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8973/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:8974/manifest.json
@@ -514,7 +510,6 @@ manifest:
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9628/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9629/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9630/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9631/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9734/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9735/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:9736/manifest.json
@@ -1150,9 +1145,6 @@ manifest:
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12069/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12070/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12071/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12235/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12236/manifest.json
-- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12237/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12238/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12239/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12240/manifest.json
@@ -1376,8 +1368,6 @@ manifest:
 metadata:
   - Original Collection
   - Date
-  - Creator
-  - Location
   - Location Note
   - Subject 
 
