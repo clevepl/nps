@@ -1,23 +1,23 @@
 ---
 title: Cleveland Public Library's Neighborhood Photographic Survey
 description: Cleveland Public Library's Pictures of Cleveland, Ohio
-image: https://iiif.dc.library.northwestern.edu/iiif/3/138a94b0-175a-4152-98c7-df58661ce7d5/950,520,7100,4740/!1200,630/0/default.jpg
+image: 
 ---
 
 <Interstitials.Hero
-  headline="Use this Canopy IIIF template to create a new digital project"
-  description="This starter is yours to configure, add context to, and publish a collection that fits your project."
+  headline="Cleveland Public Library's Neighborhood Photographic Survey"
+  description="One sentence, short description of the NPS"
   background="theme"
   random={true}
   links={[
     {
       href: "https://cpl.org/neighborhood-photographic-survey/",
-      title: "Learn more about the project",
+      title: "Learn more about the Neighborhood Photographic Survey",
       type: "primary",
     },
     {
-      href: "https://canopy-iiif.github.io/app/docs/",
-      title: "Read documentation",
+      href: "https://clevepl.github.io/canopy-example/search",
+      title: "Browse Photos",
       type: "secondary",
     },
   ]}
@@ -25,24 +25,22 @@ image: https://iiif.dc.library.northwestern.edu/iiif/3/138a94b0-175a-4152-98c7-d
 
 <Container>
 
-# CPL's Neighborhood Photography Survey
+## CPL's Neighborhood Photography Survey
 
-A sentence or two can go here. This is experimentation. How can we do this so only items from the NPS display at all? 
+A sentence or two can go here. I'd prefer to direct people to the CPL website generally and keep them there instead of writing content here. 
 
-There is an Interstitials component above that doesn't DISPLAY, WHY? 
+We may need to scrap the hero (the section above)
 
-## Point to your collection
 
-- Open `canopy.yml` and set `collection` to the IIIF Collection you want to feature.
-- Review `metadata` and `featured` entries—adjust them to suit the facets and works you want to highlight.
-
-## Tune layouts and pages
+## Browse by Subject Topics
 
 - Customize `content/index.mdx`, `content/about/`, and add new folders under `content/` for exhibits or guides.
 - Modify `content/works/_layout.mdx` to control how individual manifests render.
 - Update `content/_app.mdx` to adjust site-wide structure.
 - Browse the component catalog and usage patterns in the docs to extend the narrative beyond default manifests.
 
-<RelatedItems top={3} />
+<Index label="Subject" />
+
+<Index label="Location Note" />
 
 </Container>
