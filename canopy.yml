@@ -1363,6 +1363,8 @@ manifest:
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12454/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12455/manifest.json
 - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12456/manifest.json
+- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12457/manifest.json
+- https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12458/manifest.json
 
 metadata:
   - Original Collection
@@ -1371,8 +1373,6 @@ metadata:
   - Subject 
 
 featured:
-  - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:10401/manifest.json
-  - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12446/manifest.json
   - https://cdm16014.contentdm.oclc.org/iiif/p4014coll18:12402/manifest.json
 search:
   page:
